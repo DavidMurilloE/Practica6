@@ -1,0 +1,13 @@
+body {
+  color: #eee;
+  background-color: #222;
+  font-family: sans-serif;
+}
+
+a {
+  color: rgb(46, 169, 83);
+}
+
+a:hover {
+  opacity: 0.8;
+}
